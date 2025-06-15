@@ -1,6 +1,6 @@
 ## Hi! there 👋 It's me Delwise Stefin J
 
-Beginner Frontend Developer!
+Beginner-Frontend Developer!
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](http://delwisestefin-portfolio.web.app)                                                 
 - 🌱 I’m currently pursuing BTech Artificial Intelligence and Data Science Chennai.
