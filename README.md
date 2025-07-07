@@ -11,7 +11,7 @@ Beginner-Frontend Developer!
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  
 
-###  Tools and IDE I Use
+###  Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>   <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>   <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
 
 ![stefinsuniverse's Stats](https://github-readme-stats.vercel.app/api?username=stefinsuniverse&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
