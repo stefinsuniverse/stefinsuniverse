@@ -4,7 +4,7 @@ Beginner-Frontend Developer!
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                
 - 🌱 I’m currently pursuing BTech Artificial Intelligence and Data Science 
 - Social Presence|
-<br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/stefin.xo/)
+<br/> []([https://www.instagram.com/stefin.xo/](https://stefin-x08.web.app/))
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/Delwise2403) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/delwise-stefin-985b392a8/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/stefin.xo/)
 
 ### I code in
